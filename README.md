@@ -17,3 +17,8 @@
 - Build strong projects
 - Improve coding skills
 - Get internship
+
+## Projects
+
+### Personal Profile Website
+🔗https://drashti-arora.github.io/web-development-projects/personal-profile/
